@@ -28,7 +28,7 @@ This repository contains code and setup instructions for running a **FreeRTOS si
    - Open the Visual Studio and then clone using the below repo link
    git clone https://github.com/FreeRTOS/FreeRTOS
    
-5. **Open the Project in Visual Studio**
+5. **Open and Build the Project in Visual Studio**
    - Launch Visual Studio.
    - Open the cloned repository folder.
    - Navigate to:
